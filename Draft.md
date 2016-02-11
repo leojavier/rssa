@@ -24,3 +24,7 @@ When it comes to coding a page and setting your CSS properties you will face a f
 
 The solution relies in the way we structure our projects. Breaking our files into modules will help us to 
 get separation of concern between our UI elements.
+
+- main.css
+- variabless.css
+- module
